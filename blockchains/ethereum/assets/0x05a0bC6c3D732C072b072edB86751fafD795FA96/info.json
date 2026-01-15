@@ -1,0 +1,11 @@
+{
+    "name": "VSDT",
+    "symbol": "VSDT",
+    "type": "ERC20",
+    "decimals": 8,
+    "description": "-",
+    "website": "https://www.vsdt.co.uk/",
+    "explorer": "https://etherscan.io/address/0x05a0bC6c3D732C072b072edB86751fafD795FA96",
+    "status": "active",
+    "id": "0x05a0bC6c3D732C072b072edB86751fafD795FA96"
+}
